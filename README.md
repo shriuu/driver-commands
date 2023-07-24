@@ -2,7 +2,7 @@
 
 # COMMANDS
 
-Commands that help in installings drivers in the projects
+Commands that help in installing drivers in the projects
 
 ## Deployment
 
